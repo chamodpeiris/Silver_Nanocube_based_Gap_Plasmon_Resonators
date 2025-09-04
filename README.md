@@ -51,7 +51,7 @@ pip install numpy pandas scikit-learn matplotlib scipy jupyter
 
 1. **Clone the repository**  
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/chamodpeiris/Silver_Nanocube_based_Gap_Plasmon_Resonators.git
    cd plasmonic-nanocubes
    ````
 2. Execute on Jupyter notebook
